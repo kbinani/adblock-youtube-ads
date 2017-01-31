@@ -1,0 +1,10 @@
+https://www.youtube.com^
+@@https://www.youtube.com/yts/jsbin/*
+@@https://www.youtube.com/yts/cssbin/*
+@@https://www.youtube.com/feed_ajax*
+@@https://www.youtube.com/yts/img/*
+@@https://www.youtube.com/addto_ajax*
+@@https://www.youtube.com/api/stats/atr*
+@@https://www.youtube.com/watch_fragments_ajax*
+@@https://www.youtube.com/playlist_video_ajax*
+@@https://www.youtube.com/subscription_ajax*

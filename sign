@@ -1,0 +1,11 @@
+#!/bin/bash
+
+(
+  cd "$(dirname "$0")"
+  (
+    echo "[Adblock Plus 1.1]"
+    cat filter.txt
+  ) | python ext/adblockplus/addChecksum.py > signed.txt
+
+  cat signed.txt | python ext/adblockplus/validateChecksum.py
+)

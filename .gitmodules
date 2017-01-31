@@ -1,0 +1,3 @@
+[submodule "ext/adblockplus"]
+	path = ext/adblockplus
+	url = https://github.com/adblockplus/adblockplus.git
