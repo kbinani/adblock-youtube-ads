@@ -1,5 +1,5 @@
 [Adblock Plus 1.1]
-! Checksum: Gz95K+aQrZRbkUTqQUg+lQ
+! Checksum: C/ycEjf+uQtjh+fliAGBzg
 https://www.youtube.com^
 @@https://www.youtube.com/*_ajax?*
 @@https://www.youtube.com/api/stats/atr*
@@ -7,3 +7,5 @@ https://www.youtube.com^
 @@https://www.youtube.com/yts/jsbin/*
 @@https://www.youtube.com/yts/cssbin/*
 @@https://www.youtube.com/yts/img/*
+||googlesyndication.com^
+||doubleclick.net^
