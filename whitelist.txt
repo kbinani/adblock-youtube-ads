@@ -1,0 +1,7 @@
+https://www.youtube.com/*_ajax?*
+https://www.youtube.com/api/stats/atr*
+https://www.youtube.com/heartbeat?*
+https://www.youtube.com/yts/jsbin/*
+https://www.youtube.com/yts/cssbin/*
+https://www.youtube.com/yts/img/*
+https://www.youtube.com/playlist_edit_service_ajax/?*

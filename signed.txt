@@ -1,11 +1,12 @@
 [Adblock Plus 1.1]
-! Checksum: C/ycEjf+uQtjh+fliAGBzg
+! Checksum: Qp9QMvPyJnS9jm6INfzgvQ
+||doubleclick.net^
+||googlesyndication.com^
 https://www.youtube.com^
 @@https://www.youtube.com/*_ajax?*
 @@https://www.youtube.com/api/stats/atr*
 @@https://www.youtube.com/heartbeat?*
-@@https://www.youtube.com/yts/jsbin/*
+@@https://www.youtube.com/playlist_edit_service_ajax/?*
 @@https://www.youtube.com/yts/cssbin/*
 @@https://www.youtube.com/yts/img/*
-||googlesyndication.com^
-||doubleclick.net^
+@@https://www.youtube.com/yts/jsbin/*
