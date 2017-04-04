@@ -1,3 +1,8 @@
-https://www.youtube.com^
 ||googlesyndication.com^
 ||doubleclick.net^
+||s0.2mdn.net/ads
+||www.youtube.com/[[computeEmptyGif_()]]$image
+||www.youtube.com/[[computeThumbnailUrl_(data.thumbnail)]]
+||www.youtube.com/api/stats
+||www.youtube.com/pagead
+||www.youtube.com/ptracking
