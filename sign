@@ -5,7 +5,6 @@
   (
     echo "[Adblock Plus 1.1]"
     cat blacklist.txt | sort
-    cat whitelist.txt | sort | sed 's/^\(.*\)$/@@\1/g'
   ) | python ext/adblockplus/addChecksum.py > signed.txt
 
   cat signed.txt | python ext/adblockplus/validateChecksum.py
