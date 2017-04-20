@@ -6,6 +6,7 @@
     echo "[Adblock Plus 1.1]"
     echo "! Title: adblock-youtube-ads"
     echo "! Homepage: https://github.com/kbinani/adblock-youtube-ads"
+    echo "! License: https://github.com/kbinani/adblock-youtube-ads/blob/master/LICENSE"
     cat blacklist.txt | sort
   ) | python ext/adblockplus/addChecksum.py > signed.txt
 
