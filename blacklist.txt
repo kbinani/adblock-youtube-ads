@@ -13,3 +13,4 @@
 ||www.youtube.com/api/stats
 ||www.youtube.com/pagead
 ||www.youtube.com/ptracking
+youtube.com###masthead-ad
